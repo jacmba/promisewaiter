@@ -1,0 +1,34 @@
+{
+  "name": "promisewaiter",
+  "version": "1.0.0",
+  "description": "Simple wait method with promises",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacmba/promisewaiter.git"
+  },
+  "keywords": [
+    "async",
+    "wait",
+    "promises",
+    "timeout",
+    "pause"
+  ],
+  "author": "Jacinto Mba Cantero",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/jacmba/promisewaiter/issues"
+  },
+  "homepage": "https://github.com/jacmba/promisewaiter#readme",
+  "devDependencies": {
+    "mocha": "4.0.1",
+    "assert": "1.4.1"
+  }
+}
