@@ -4,7 +4,7 @@ Simple NodeJS async wait function based on promises
 ## Requires
 ES 6+
 
-## Instalation
+## Installation
 ``` npm i promisewaiter ```
 
 ## How it works
